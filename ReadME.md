@@ -1,5 +1,5 @@
 <h1 align="center">Hello, I am Jbz</h1>
-<p align="center">Software & frontend developer from <img width="23" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQU5m48dbnmxj4knjXK3dvucdEITdxS3EhYLw&s"></p>
+<p align="center">Developer from <img width="23" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQU5m48dbnmxj4knjXK3dvucdEITdxS3EhYLw&s"></p>
 
 
 # How to contact
